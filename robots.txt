@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saintpeterswaterdamagepros.com/sitemap.xml
